@@ -6,7 +6,8 @@
     "theme": "github",
     "layout": "blog",
     "css": "styles.css",
-    "authorView": false
+    "authorView": false,
+    "favicon": "static/laser_pointer_more_power.ico"
   },
   "dependencies": {
     "idyll": "^3.0.0",
