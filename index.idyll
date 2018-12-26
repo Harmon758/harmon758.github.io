@@ -1,7 +1,9 @@
 [meta title:"Harmon" description:"Harmon's Website" /]
 
+[img
+  src:'static/images/laser_pointer_more_power.png'
+  /]
+
 [Header
   title:"Harmon"
   subtitle:"Welcome to Harmon's website" /]
-  // author:"Your Name Here"
-  // authorLink:"https://idyll-lang.org" /]
