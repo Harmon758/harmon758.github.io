@@ -1,7 +1,10 @@
-[meta title: "Harmon" description: "Harmon's Website" /]
+[meta
+  title: "Harmon"
+  description: "Harmon's Website"
+  /]
 
 [img
-  src: "static/images/laser_pointer_more_power.png"
+  src: "static/images/inverted_laser_pointer_more_power.png"
   /]
 
 [TransparentText
@@ -10,3 +13,29 @@
   transparentText: "758"
   /]
 ## Welcome to Harmon's website
+
+[var
+  name: "backgroundBrightness"
+  value: 0
+  /]
+[BackgroundBrightness
+  className: "background"
+  backgroundBrightness: backgroundBrightness
+  /]
+[TextBrightness
+  backgroundBrightness: backgroundBrightness
+  /]
+
+Adjust the background 
+[WordSwap
+  former: "brightness"
+  latter: "darkness"
+  variable: backgroundBrightness
+  value: 50
+  /]
+
+[Range
+  value: backgroundBrightness
+  min: 0
+  max: 100
+  /]
