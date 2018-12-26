@@ -1,9 +1,12 @@
-[meta title:"Harmon" description:"Harmon's Website" /]
+[meta title: "Harmon" description: "Harmon's Website" /]
 
 [img
-  src:'static/images/laser_pointer_more_power.png'
+  src: "static/images/laser_pointer_more_power.png"
   /]
 
-[Header
-  title:"Harmon"
-  subtitle:"Welcome to Harmon's website" /]
+[TransparentText
+  headerLevel: "1"
+  normalText: "Harmon"
+  transparentText: "758"
+  /]
+## Welcome to Harmon's website
