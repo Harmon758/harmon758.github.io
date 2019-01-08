@@ -10,9 +10,9 @@
     "favicon": "static/laser_pointer_more_power.ico"
   },
   "dependencies": {
-    "idyll": "^3.0.0",
-    "idyll-d3-component": "^2.0.0",
-    "d3": "^4.0.0"
+    "d3": "^4.0.0",
+    "idyll": "^3.12.1",
+    "idyll-d3-component": "^2.0.0"
   },
   "devDependencies": {
     "gh-pages": "^0.12.0"
